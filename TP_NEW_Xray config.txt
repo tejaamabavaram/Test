@@ -1,0 +1,28 @@
+{
+  "projectKey" : {
+    "project" : "ICSBRCCFLU"
+  },
+  "field" : {
+    "Steps" : "Action",
+    "Path" : "customfield_12052",
+    "Automated" : "customfield_13702",
+    "Archer Application" : "customfield_16001",
+    "Test Plan" : "customfield_12050",
+    "Comments" : "comment",
+    "Priority" : "priority",
+    "Label" : "labels",
+    "Input Data" : "Data",
+    "Expected Result" : "Expected Result",
+    "﻿Test Case ID" : "Test Case Identifier",
+    "Testing Type" : "customfield_13701",
+    "Test Case" : "summary",
+    "Test Case Description" : "description",
+    "Pre-Condition" : "customfield_12049"
+  },
+  "link" : { },
+  "projectSelection" : {
+    "project" : "true"
+  },
+  "projectName" : { },
+  "value" : { }
+}
